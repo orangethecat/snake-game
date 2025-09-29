@@ -1,2 +1,2 @@
 # snake-game
-a snake game, nothing more
+juuusst a snake game, nothing more
