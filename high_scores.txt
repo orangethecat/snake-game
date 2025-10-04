@@ -1,3 +1,2 @@
 0
-# this files main purpose is to remember the last high score so the high score will
-# remain the same even if the game is rerun.
+
